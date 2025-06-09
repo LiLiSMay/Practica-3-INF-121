@@ -1,1 +1,5 @@
-# Practica-3-INF-121
+# Practica-1-INF-121
+## MAYA SALOME MACHACA ARCANI
+### **CI: 12638210**
+
+### **RU: 1838070**
